@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "az-devsecops-webapp", "az-devsecops-webapp\az-devsecops-webapp.csproj", "{F46A569A-DED8-4CB3-A69B-968F13CA2459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46A569A-DED8-4CB3-A69B-968F13CA2459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46A569A-DED8-4CB3-A69B-968F13CA2459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46A569A-DED8-4CB3-A69B-968F13CA2459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46A569A-DED8-4CB3-A69B-968F13CA2459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67179A3F-DF37-4F08-AE96-81FE10C644A1}
+	EndGlobalSection
+EndGlobal

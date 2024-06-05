@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/az-devsecops-webapp.props" />
+</Project>
